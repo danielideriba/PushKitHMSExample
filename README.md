@@ -39,8 +39,8 @@ https://developer.android.com/studio
 https://code.visualstudio.com/
 
 # With environment ready
-Install the HMS plugin for Site Kit. Follow the command:
-npm i @hmscore/react-native-hms-site
+Install the HMS plugin for Push Kit. Follow the command:
+npm i @hmscore/react-native-hms-pushkit
 
 React Native command to build the app:
 react-native init [PROJECT NAME] - Build Android/iOS and start project
