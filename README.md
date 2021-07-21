@@ -49,6 +49,10 @@ react-native start - Run metro
 
 https://www.npmjs.com/package/@hmscore/react-native-hms-push
 
+# Adb Tips
+adb uninstall [PACKAGE NAME] - Remove app from device
+
+
 # Usefull links
 https://developer.huawei.com/consumer/en/hms/huawei-pushkit/
 https://developer.huawei.com/consumer/en/doc/development/HMS-Plugin-References/instanceid-0000001050157805
